@@ -8,6 +8,7 @@ Self-implemented linear and polynomial regression algorithms using gradient desc
 **Environment Setup**:
 
 To set up your environment, use:
-conda env create -f regr-algos.yaml
 
-Alternatively you can use any existing environment that has numpy, pandas, scikit-learn, and matplotlib
+    conda env create -f regr-algos.yaml
+
+Alternatively you can use any existing environment that has numpy, pandas, scikit-learn, and matplotlib.
